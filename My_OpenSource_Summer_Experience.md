@@ -119,11 +119,19 @@ So in my case I chose Neovim as my organisation.
 
 
 
-- Mentor
-- Writing the code
-- PR Reviews
+- Problems I faced:
+  - Vim's weird file saving method
+  - Multiple notifications
+  - Issues I faced while working on old PRs
+  - My own stupid mistakes
+  - `uv_loop_close()` hangs
+  - And probably a bunch of other stuff that do not remember exactly
+- Supercool mentor
+- Writing the code was super fun, except the part where it wasn't
+- Constructive PR Reviews
 - The community in general
 - What did I learn?
+- Will I contribute to the organisation in the future? (Psst, YES)
 
 ???
 
@@ -150,15 +158,15 @@ Lots of development going on. Huge 0.5 release.
 
 
 
-- How to choose an organisation?
-  - Ideally, try contrbuting to something that you've been using.
-  - Helps if you already have made contributions to that org earlier.
-  - At least choose something that excites you.
 - You'll never learn enough before you think you can contribute.
 - Start small:
   - Fix the documentation.
   - Fix a beginners bug.
 - Let the community help you.
+- How to choose an organisation?
+  - Ideally, try contrbuting to something that you've been using.
+  - Helps if you already have made contributions to that org earlier.
+  - At least choose something that excites you.
 - Research before you write your proposal.
 - Leverage the community bonding period.
 - Enjoy your work! :)
@@ -188,7 +196,7 @@ Lots of development going on. Huge 0.5 release.
 
 - @teto, for mentoring me through the program, and helping me with this talk.
 - @tjdevries, for being my vice mentor, and helping me with whatever queries I came up with
-  and helping me with this talk.
+  and recommending me for the talk.
 - @vigoux, for making this plugin for presentations on nvim. (Also I stole a few ideas from your
   presentation when I was watching you rehearse :P).
 - @niklalsvk, for helping me with reviewing my talk.
