@@ -54,9 +54,9 @@
 So in my case I chose Neovim as my organisation.
 
 ---
-                                                          ╻ ╻┏━┓╻ ╻   ╺┳╸┏━┓   ┏━╸╻ ╻┏━┓┏━┓┏━┓┏━╸   ┏━┓┏┓╻   ┏━┓┏━┓┏━╸┏━┓┏┓╻╻┏━┓┏━┓╺┳╸╻┏━┓┏┓╻┏━┓
-                                                          ┣━┫┃ ┃┃╻┃    ┃ ┃ ┃   ┃  ┣━┫┃ ┃┃ ┃┗━┓┣╸    ┣━┫┃┗┫   ┃ ┃┣┳┛┃╺┓┣━┫┃┗┫┃┗━┓┣━┫ ┃ ┃┃ ┃┃┗┫ ╺┛
-                                                          ╹ ╹┗━┛┗┻┛    ╹ ┗━┛   ┗━╸╹ ╹┗━┛┗━┛┗━┛┗━╸   ╹ ╹╹ ╹   ┗━┛╹┗╸┗━┛╹ ╹╹ ╹╹┗━┛╹ ╹ ╹ ╹┗━┛╹ ╹ ╹
+                                                              ╻ ╻╻ ╻╻ ╻   ┏━┓╻ ╻┏━┓╻ ╻╻  ╺┳┓   ╻   ┏━┓┏━┓┏━┓╺┳╸╻┏━╸╻┏━┓┏━┓╺┳╸┏━╸┏━┓
+                                                              ┃╻┃┣━┫┗┳┛   ┗━┓┣━┫┃ ┃┃ ┃┃   ┃┃   ┃   ┣━┛┣━┫┣┳┛ ┃ ┃┃  ┃┣━┛┣━┫ ┃ ┣╸  ╺┛
+                                                              ┗┻┛╹ ╹ ╹    ┗━┛╹ ╹┗━┛┗━┛┗━╸╺┻┛   ╹   ╹  ╹ ╹╹┗╸ ╹ ╹┗━╸╹╹  ╹ ╹ ╹ ┗━╸ ╹
 
 
 
@@ -67,10 +67,11 @@ So in my case I chose Neovim as my organisation.
 
 
 
-
-- Ideally, try contrbuting to something that you've been using.
-- Helps if you already have made contributions to that org earlier.
-- At least choose something that excites you.
+- Mentor
+- Stipend
+- Certificate
+- Getting to work on whatever you want
+- Learn cool new stuff
 
 ---
                                                                                     ┏┳┓╻ ╻   ┏━┓┏━┓┏━┓ ┏┓┏━╸┏━╸╺┳╸
@@ -99,41 +100,6 @@ So in my case I chose Neovim as my organisation.
 - Chose neovim
 - Problem Statement
 - Solution that I proposed
-- Demo
-
----
-                                                          ╻ ╻┏━┓╻ ╻   ╺┳╸┏━┓   ┏━╸╻ ╻┏━┓┏━┓┏━┓┏━╸   ┏━┓┏┓╻   ┏━┓┏━┓┏━╸┏━┓┏┓╻╻┏━┓┏━┓╺┳╸╻┏━┓┏┓╻┏━┓
-                                                          ┣━┫┃ ┃┃╻┃    ┃ ┃ ┃   ┃  ┣━┫┃ ┃┃ ┃┗━┓┣╸    ┣━┫┃┗┫   ┃ ┃┣┳┛┃╺┓┣━┫┃┗┫┃┗━┓┣━┫ ┃ ┃┃ ┃┃┗┫ ╺┛
-                                                          ╹ ╹┗━┛┗┻┛    ╹ ┗━┛   ┗━╸╹ ╹┗━┛┗━┛┗━┛┗━╸   ╹ ╹╹ ╹   ┗━┛╹┗╸┗━┛╹ ╹╹ ╹╹┗━┛╹ ╹ ╹ ╹┗━┛╹ ╹ ╹
-
-
-
-
-
-
-
-
-
-
-
-- Ideally, try contrbuting to something that you've been using.
-- Helps if you already have made contributions to that org earlier.
-- At least choose something that excites you.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ---
                                                                                   ┏┳┓╻ ╻   ┏━╸╻ ╻┏━┓┏━╸┏━┓╻┏━╸┏┓╻┏━╸┏━╸
@@ -165,6 +131,11 @@ Community is very active.
 Lots of development going on. Huge 0.5 release.
 
 ---
+                                                                                                ╺┳┓┏━╸┏┳┓┏━┓
+                                                                                                 ┃┃┣╸ ┃┃┃┃ ┃
+                                                                                                ╺┻┛┗━╸╹ ╹┗━┛
+
+---
                                                               ╻ ╻┏━┓╻ ╻   ┏━╸┏━┓┏┓╻   ╻ ╻┏━┓╻ ╻   ╺┳┓┏━┓   ╻ ╻╻ ╻┏━┓╺┳╸   ╻   ╺┳┓╻╺┳┓┏━┓
                                                               ┣━┫┃ ┃┃╻┃   ┃  ┣━┫┃┗┫   ┗┳┛┃ ┃┃ ┃    ┃┃┃ ┃   ┃╻┃┣━┫┣━┫ ┃    ┃    ┃┃┃ ┃┃ ╺┛
                                                               ╹ ╹┗━┛┗┻┛   ┗━╸╹ ╹╹ ╹    ╹ ┗━┛┗━┛   ╺┻┛┗━┛   ┗┻┛╹ ╹╹ ╹ ╹    ╹   ╺┻┛╹╺┻┛ ╹
@@ -179,6 +150,10 @@ Lots of development going on. Huge 0.5 release.
 
 
 
+- How to choose an organisation?
+  - Ideally, try contrbuting to something that you've been using.
+  - Helps if you already have made contributions to that org earlier.
+  - At least choose something that excites you.
 - You'll never learn enough before you think you can contribute.
 - Start small:
   - Fix the documentation.
@@ -216,7 +191,7 @@ Lots of development going on. Huge 0.5 release.
   and helping me with this talk.
 - @vigoux, for making this plugin for presentations on nvim. (Also I stole a few ideas from your
   presentation when I was watching you rehearse :P).
-- @nikolavsk, for helping me with reviewing my talk.
+- @niklalsvk, for helping me with reviewing my talk.
 - The neovim community, for helping me with all my queries before and during GSoC.
 - The neovim org, for giving me such an awesome opportunity to return to the community.
 - Adam and the vimconf.live team, for having this conf, and having me speak here.
