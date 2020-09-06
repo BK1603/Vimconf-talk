@@ -9,6 +9,7 @@
                                                                                       ┃╻┃┣━┫┃ ┃   ┣━┫┃┃┃   ┃ ╺┛
                                                                                       ┗┻┛╹ ╹┗━┛   ╹ ╹╹ ╹   ╹ ╹
 
+                                                                                     Shreyansh Chouhan | @BK1603
 
 
 
@@ -44,9 +45,10 @@
 
 
 - Initiative by google to get more contributors to open source
+- Organisations apply and selected
 - Students can participate
 - Choose a project
-- Draft a proposal for the solution
+- Draft a proposal
 - Spend the summer having fun :)
 
 ???
@@ -102,6 +104,35 @@ So in my case I chose Neovim as my organisation.
 - Solution that I proposed
 
 ---
+                                                                                          ┏━╸┏━╸┏┓╻┏━┓╺┳╸╻┏━╸╻ ╻
+                                                                                          ┣╸ ┃  ┃┗┫┃ ┃ ┃ ┃┣╸ ┗┳┛
+                                                                                          ╹  ┗━╸╹ ╹┗━┛ ╹ ╹╹   ╹
+
+
+
+
+
+
+
+
+
+
+- libUV `fs_events`
+- Problems I faced:
+  - Vim's weird file saving method
+  - Multiple notifications
+  - Issues I faced while working on old PRs
+  - My own stupid mistakes
+  - `uv_loop_close()` hangs
+  - And probably a bunch of other stuff that do not remember exactly
+- `fcnotify`, the option:
+  - `off` don't watch
+  - `autoread` for prompts
+  - `watch` fs_event handle
+  - `onfocus` the fallback
+- Demo
+
+---
                                                                                   ┏┳┓╻ ╻   ┏━╸╻ ╻┏━┓┏━╸┏━┓╻┏━╸┏┓╻┏━╸┏━╸
                                                                                   ┃┃┃┗┳┛   ┣╸ ┏╋┛┣━┛┣╸ ┣┳┛┃┣╸ ┃┗┫┃  ┣╸
                                                                                   ╹ ╹ ╹    ┗━╸╹ ╹╹  ┗━╸╹┗╸╹┗━╸╹ ╹┗━╸┗━╸
@@ -119,13 +150,6 @@ So in my case I chose Neovim as my organisation.
 
 
 
-- Problems I faced:
-  - Vim's weird file saving method
-  - Multiple notifications
-  - Issues I faced while working on old PRs
-  - My own stupid mistakes
-  - `uv_loop_close()` hangs
-  - And probably a bunch of other stuff that do not remember exactly
 - Supercool mentor
 - Writing the code was super fun, except the part where it wasn't
 - Constructive PR Reviews
@@ -137,11 +161,6 @@ So in my case I chose Neovim as my organisation.
 
 Community is very active.
 Lots of development going on. Huge 0.5 release.
-
----
-                                                                                                ╺┳┓┏━╸┏┳┓┏━┓
-                                                                                                 ┃┃┣╸ ┃┃┃┃ ┃
-                                                                                                ╺┻┛┗━╸╹ ╹┗━┛
 
 ---
                                                               ╻ ╻┏━┓╻ ╻   ┏━╸┏━┓┏┓╻   ╻ ╻┏━┓╻ ╻   ╺┳┓┏━┓   ╻ ╻╻ ╻┏━┓╺┳╸   ╻   ╺┳┓╻╺┳┓┏━┓
@@ -219,5 +238,6 @@ Lots of development going on. Huge 0.5 release.
 
 
 
-- Link to GSoC project.
-- Link to blog. (Shameless plug :P)
+- https://docs.google.com/document/d/1KKT_PKarocDKD9cpbcsc6dOxGPYRysX0oKgCxcu6IlA/edit?usp=sharing (Link to my proposal.)
+- https://bk1603.github.io (Link to blog. (Shameless plug :P))
+- https://summerofcode.withgoogle.com/dashboard/project/5397151368085504/overview/ (Link to my project.)
